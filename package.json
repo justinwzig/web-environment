@@ -1,0 +1,30 @@
+{
+  "name": "SITE_NAME",
+  "version": "1.0.0",
+  "description": "SITE_DESCRIPTION",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinwzig/GIT_REPO.git"
+  },
+  "author": "Justin Ziegelmueller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justinwzig/GIT_REPO/issues"
+  },
+  "homepage": "https://github.com/justinwzig/GIT_REPO#readme",
+  "dependencies": {
+    "coffeescript": "^2.0.0-beta2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.5.0",
+    "gulp-coffee": "^2.3.4",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
